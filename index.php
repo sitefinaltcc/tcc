@@ -15,7 +15,7 @@ require_once("logica-usuario.php");
 								<td><input class="form-control" type="email" name="email"/></td>						
 							</tr>
 							<tr>
-								<td>Senha</td>
+								<td>Senha - password</td>
 								<td><input class="form-control" type="password" name="senha"/></td>						
 							</tr>
 							<tr>
