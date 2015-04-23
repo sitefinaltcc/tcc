@@ -1,7 +1,7 @@
 <?php require_once("cabecalho.php");
 require_once("logica-usuario.php");
 ?>
-				<h1>Seja bem-vindo! feito pelo git</h1>
+				<h1>Seja bem-vindo! feito pelo github</h1>
 
 				<?php if(usuarioEstaLogado()) { ?>
 					<p class="text-success">Você está logado como <?= usuarioLogado() ?>.</p>
